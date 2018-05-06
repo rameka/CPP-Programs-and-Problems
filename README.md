@@ -16,8 +16,8 @@ This repository consists of various programs on C++11 concepts and problems solv
     
 ### CPP Programs(Problems)
     Echo Server: A socket programs in c++ illustrating the implementation of client and server of an Echo Server
-    Producer Consumer: It is a program in part worker and product worker producer consumer problem. The problem statem is attached to the folder. It uses threads to solve the problem.
+    Producer Consumer: It is a program in part worker and product worker producer consumer problem. The problem statem is attached to the       folder. It uses threads to solve the problem.
     BlockingQueue.cpp: Own implementation of blocking queue using unique_lock in threads.
-    DoubleLinkedListOperations.cpp: This program implements functionalities in DLL like sorting(selection sort), reversing, traversal, printing.
+    DoubleLinkedListOperations.cpp: This program implements functionalities in DLL like sorting(selection sort), reversing, traversal,         printing.
     LinkedListSort.cpp: This program implements the insertion sort in singly linked list
-    Polynomial Operations.cpp: This program uses operator overloading and singly linked list to perform polynomial addition, multiplication and creation 
+    Polynomial Operations.cpp: This program uses operator overloading and singly linked list to perform polynomial addition, multiplication     and creation 
