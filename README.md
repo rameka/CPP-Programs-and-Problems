@@ -3,16 +3,15 @@ This repository consists of various programs on C++11 concepts and problems solv
 
 ## Folder Details
 ## CPP Programs(Concepts): 
-   This folder consists of programs elobrating on various concepts on c++. Topics included in this folder are as follows
-    * Arrays & Pointers
-    * Linked List implementations and some functionality like reversing, pushing in the list displaying linked list, etc
-    * Copy Constructor, Move Constructor, Left Reference and Right Reference
-    * Exception Handling, operator overloading, Inheritance
-    * Smart Pointers - unique_ptr, shared_ptr and weak_ptr
-    * Functors, Lambdas and Static variables
-    * Standard Template Library(STL) - list, vector, map, iterator, queue, set, multiset
-    * Database conversion with Sandard Template Library
-    * Threads, mutex, condition variable, unique_lock
+ * Arrays & Pointers
+ * Linked List implementations and some functionality like reversing, pushing in the list displaying linked list, etc
+ * Copy Constructor, Move Constructor, Left Reference and Right Reference
+ * Exception Handling, operator overloading, Inheritance
+ * Smart Pointers - unique_ptr, shared_ptr and weak_ptr
+ * Functors, Lambdas and Static variables
+ * Standard Template Library(STL) - list, vector, map, iterator, queue, set, multiset
+ * Database conversion with Sandard Template Library
+ * Threads, mutex, condition variable, unique_lock
     
 ## CPP Programs(Problems)
  * Echo Server: A socket programs in c++ illustrating the implementation of client and server of an Echo Server
